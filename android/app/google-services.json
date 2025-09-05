@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405215010879",
+    "project_id": "assignmentprojects-4af81",
+    "storage_bucket": "assignmentprojects-4af81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405215010879:android:1a2933a923d58e9160988a",
+        "android_client_info": {
+          "package_name": "com.example.soilo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnAOadXRZWcW4j0xtuPh-8_oyMKpcXhaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
